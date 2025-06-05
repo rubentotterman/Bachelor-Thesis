@@ -1,0 +1,55 @@
+Bachelor Thesis – TikTok Insight Web Application
+
+This is the final project for my Bachelor's degree in Information Technology at Kristiania University College, developed in collaboration with **Hepta AS**.
+
+The goal was to build a modern, responsive, and user-friendly web application that integrates with the TikTok API (mocked), providing businesses with insight data through an interactive dashboard. It supports features like login/auth, invoicing, and data visualization — all wrapped in clean UI/UX design.
+
+> [Read the full thesis (PDF)](docs/Bachelor%20Thesis.pdf)** – written in Norwegian
+
+
+Summary
+
+With the rise of social media marketing, many companies struggle to understand what kind of content actually performs well. This project solves that by giving users a clear, visual dashboard showing key metrics and trends from TikTok — helping businesses make data-driven decisions.
+
+The project was scoped, designed, built, and documented by a team of 4 students using agile methodology, with real client collaboration and weekly deliverables.
+
+
+Tech Stack
+
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Supabase (PostgreSQL, Auth, API)
+- **Design:** Figma
+- **Project Tools:** Trello, GitHub, Discord
+
+
+Features
+
+- Interactive dashboard with insight data (mocked from TikTok API)
+- User authentication and secure login (Supabase)
+- Invoicing system and contact form
+- Fully responsive design (mobile + desktop)
+- GDPR-conscious structure and accessibility focus
+
+
+Client: Hepta AS
+
+A digital marketing company working with strategy, content, and AI solutions. The thesis project aimed to extend their service offering with a functional tool for social media analytics.
+
+
+
+Outcome
+
+- Delivered a complete fullstack web application
+- Gained real-world experience with a client
+- Sharpened skills in frontend, backend, agile methods, and collaboration
+- Learned how to turn insights, feedback, and tech into a working product
+
+---
+
+Contact
+
+Feel free to connect if you want to chat about the project, tech stack, or anything else:
+
+- [LinkedIn](https://www.linkedin.com/in/ruben-totterman/)
+
+
